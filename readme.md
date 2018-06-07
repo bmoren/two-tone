@@ -9,7 +9,7 @@ Shout out to [Look Mum No Computer](https://www.youtube.com/watch?v=Ch9w5JtbZSc)
 
 more discussion of this project [on llllllll.co](https://llllllll.co/t/prototyping-two-tone-a-2x-passive-lowpass-gate-and-filter-with-diy-vactrols/12663)
 
-##### BOM:
+### BOM:
 
 | Quantity    | Component     |
 | :------------- | :------------- |
@@ -20,7 +20,7 @@ more discussion of this project [on llllllll.co](https://llllllll.co/t/prototypi
 | 4 | 6.8k ohm resistors |
 | 2 | DIY or NLS-32 vactrol |
 
-##### How to build a DIY vactrol:
+### How to build a DIY vactrol:
 
 http://guitarpcb.com/PDF%20Files/DIY%20Vactrol.pdf
 <br>
