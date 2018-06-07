@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=VZ1B0Epr770
 The way I usually do it is to take some small heat shrink and heat shrink each leg of the LDR and LED and then hold the LDR and LED together with the light emitting and light sensing parts touching. Cover them in more heat shrink and heat! This way the large heat shrink holds them together while the small heat shrink on each leg prevents shorts.
 
 for each DIY vactrol, I use:
+
 | Quantity      |Component     |
 | :------------- | :------------- |
 |1|LDR – GL5549 – 45~140(kOhm) |
