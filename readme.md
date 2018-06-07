@@ -40,3 +40,7 @@ for each DIY vactrol, I use:
 |1 | 5mm White LED|
 
 ![vactrol](vactrol.jpg)
+
+---
+
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
