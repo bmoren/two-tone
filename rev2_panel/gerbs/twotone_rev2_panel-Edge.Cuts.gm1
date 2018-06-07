@@ -1,0 +1,24 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(2018-02-10 revision a04965c)-master*
+G04 #@! TF.CreationDate,2018-05-16T11:38:03-05:00*
+G04 #@! TF.ProjectId,twotone_rev2_panel,74776F746F6E655F726576325F70616E,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (2018-02-10 revision a04965c)-master) date Wednesday, May 16, 2018 at 11:38:03 AM*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.200000*%
+G04 APERTURE END LIST*
+D10*
+X15000000Y0D02*
+X15000000Y-128500000D01*
+X0Y-128500000D02*
+X0Y0D01*
+X0Y0D02*
+X15000000Y0D01*
+X15000000Y-128500000D02*
+X0Y-128500000D01*
+M02*
