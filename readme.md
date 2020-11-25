@@ -43,4 +43,6 @@ for each DIY vactrol, I use:
 
 ---
 
-[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).    
+Build and use at your own risk! I am not responsible for any damage to self or otherwise that arises from using this project!
+
