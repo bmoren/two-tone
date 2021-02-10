@@ -13,7 +13,7 @@ more discussion of this project [on llllllll.co](https://llllllll.co/t/prototypi
 
 | Quantity    | Component     |
 | :------------- | :------------- |
-| 2| Song Huei tall trimmer pots, B10k |
+| 2| Song Huei tall trimmer pots, A10k is prefered (B10k works, but the taper is compressed) |
 | 6 | thonkikonn mono jacks |
 | 2 | 3mm LED's (White or Blue are best) |
 | 2 | Capacitors, 0.1uf - 4.7uf works best. |
