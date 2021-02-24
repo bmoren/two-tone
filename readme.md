@@ -4,6 +4,7 @@
 I wanted to work on building a simple module from start to finish to test out some panel fab ideas and I thought a LPG/LPF would be a good candidate. After listening to Why We Bleep Ep.2 with Abstract Data and talking about the character of imperfection in analog circuits, I thought making a DIY vactrol based board would be interesting! I also thought if there were 2 halves, you could use slightly different components and vary each to make them truly distinct from one another. You can get different characteristics in the filter depending on the size and material of the LPF capacitor and the LDR/LED combo or vactrol used.
 
 Shout out to [Look Mum No Computer](https://www.youtube.com/watch?v=Ch9w5JtbZSc) and [Meng Qi](https://www.mengqimusic.com/) for the initial inspiration for this module!
+Thanks to [Josh Mason](http://www.joshmason.info/) for the Front Panel Express panel versions.
 
 [Panel font by Alice Savoie / CNAP 19 CC BY-ND 4.0](http://cnap.graphismeenfrance.fr/faune/en.html)
 
