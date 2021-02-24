@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name twotone-rescue)(type Legacy)(uri ${KIPRJMOD}/twotone-rescue.lib)(options "")(descr ""))
-)
